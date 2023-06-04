@@ -10,9 +10,11 @@ Microsoft Azure Cognitive Services
 <img width="1401" alt="Azure AI" src="https://github.com/selahattincankus/Azure_AI/assets/45370788/9ab2d9b6-7c00-4e94-9eb3-e1ed6c7534af">
 
 Image of Codes
+
 <img width="563" alt="code" src="https://github.com/selahattincankus/Azure_AI/assets/45370788/b5c38369-5ac5-4186-998a-ef4b74ff2a94">
 
 Result of Code
+
 <img width="638" alt="result" src="https://github.com/selahattincankus/Azure_AI/assets/45370788/d79d72ae-3e21-47d9-9943-eeeefb79162a">
 
 Power-BI Report
